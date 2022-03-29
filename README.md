@@ -1,0 +1,2 @@
+# Order-Status-Prediction
+Our client is an E-commerce website owner who is not happy with the performance  on his website in terms of profit despite having good engagement on the website. We are predicting the order status and analyzing the percentage of the orders which  are getting cancelled or completed. With the products clustering we can give our client the list  of products he can concentrate more on, so we are giving him inventory management solutions  and customer segmentation based on the customers behavior on the website. 
